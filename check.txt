@@ -1,0 +1,5 @@
+building and creating websites and web applications  that run online on a browser
+HTML stands for Hyper Text Markup Language and its primary purpose is to create webpages
+The primary function of CSS is to define the styling and layout of web pages making them more user-friendly
+JavaScript is a programming language and it enhances user experience by enabling real-time updates, animations and interactive elements
+NO
